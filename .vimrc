@@ -6,6 +6,16 @@ colorscheme ir_black
 " Colorscheme for teaching:
 "colorscheme morning
 
+" highlight search terms
+set hlsearch
+
+" show search as you type
+set incsearch
+
+" forget the backupfiles
+set nobackup
+set noswapfile
+
 " Use zsh.
 set shell=zsh
 
@@ -52,6 +62,13 @@ set backspace=indent,eol,start
 " Yank from the cursor to the end of the line, to be consistent with C and D.
 nnoremap Y y$
 
+" ignore case when searching
+set ignorecase
+
+" ignore case if search pattern is all lowercase,
+"  case-sensitive otherwise
+set smartcase     
+
 " bind command-v to paste from clipboard
 imap <D-v> "+p
 
@@ -59,3 +76,10 @@ imap <D-v> "+p
 imap <D-c> "+y
 
 execute pathogen#infect()
+
+" Make F2 open NERDTree
+nmap <F2> :NERDTreeToggle<CR>
+nmap <C-n> :NERDTreeToggle<CR>
+
+runtime! custom/nerdtree_config.vim
+
