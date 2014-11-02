@@ -83,3 +83,4 @@ nmap <C-n> :NERDTreeToggle<CR>
 
 runtime! custom/nerdtree_config.vim
 
+let g:ctrlp_map = '<c-p>'
