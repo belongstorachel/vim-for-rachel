@@ -1,0 +1,55 @@
+[submodule ".vim/bundle/ack.vim"]
+  path = .vim/bundle/ack.vim
+  url  = https://github.com/mileszs/ack.vim 
+
+[submodule ".vim/bundle/ctrlp.vim"]
+  path = .vim/bundle/ctrlp.vim
+  url  =  https://github.com/kien/ctrlp.vim
+
+[submodule ".vim/bundle/gitv"]
+  path = .vim/bundle/gitv
+  url  = https://github.com/gregsexton/gitv 
+
+[submodule ".vim/bundle/nerdtree"]
+  path = .vim/bundle/nerdtree
+  url  = https://github.com/scrooloose/nerdtree 
+
+[submodule ".vim/bundle/syntastic"]
+  path = .vim/bundle/syntastic
+  url  = https://github.com/scrooloose/syntastic 
+
+[submodule ".vim/bundle/vim-coffee-script"]
+  path = .vim/bundle/vim-coffee-script
+  url  = https://github.com/kchmck/vim-coffee-script 
+
+[submodule ".vim/bundle/vim-endwise"]
+  path = .vim/bundle/vim-endwise
+  url  = https://github.com/tpope/vim-endwise 
+
+[submodule ".vim/bundle/vim-fugitive"]
+  path = .vim/bundle/vim-fugitive
+  url  = https://github.com/tpope/vim-fugitive
+
+[submodule ".vim/bundle/vim-puppet"]
+  path = .vim/bundle/vim-puppet
+  url  = https://github.com/rodjek/vim-puppet 
+
+[submodule ".vim/bundle/vim-rails"]
+  path = .vim/bundle/vim-rails
+  url  = https://github.com/tpope/vim-rails
+
+[submodule ".vim/bundle/vim-rake"]
+  path = .vim/bundle/vim-rake
+  url  = https://github.com/tpope/vim-rake 
+
+[submodule ".vim/bundle/vim-rspec"]
+  path = .vim/bundle/vim-rspec
+  url  = https://github.com/thoughtbot/vim-rspec 
+
+[submodule ".vim/bundle/vim-ruby"]
+  path = .vim/bundle/vim-ruby
+  url  = https://github.com/vim-ruby/vim-ruby 
+
+[submodule ".vim/bundle/vim-surround"]
+  path = .vim/bundle/vim-surround
+  url  = https://github.com/tpope/vim-surround 

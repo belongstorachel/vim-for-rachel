@@ -6,6 +6,9 @@ colorscheme ir_black
 " Colorscheme for teaching:
 "colorscheme morning
 
+" set the font and size
+set guifont=Menlo\ Regular:h14
+
 " highlight search terms
 set hlsearch
 
@@ -15,6 +18,9 @@ set incsearch
 " forget the backupfiles
 set nobackup
 set noswapfile
+
+" don't wrap the lines
+set nowrap
 
 " Use zsh.
 set shell=zsh
