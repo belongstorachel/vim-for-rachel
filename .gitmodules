@@ -53,3 +53,6 @@
 [submodule ".vim/bundle/vim-surround"]
   path = .vim/bundle/vim-surround
   url  = https://github.com/tpope/vim-surround 
+[submodule ".vim/bundle/tabular"]
+	path = .vim/bundle/tabular
+	url = git://github.com/godlygeek/tabular.git
