@@ -65,3 +65,6 @@
 [submodule ".vim/bundle/supertab"]
 	path = .vim/bundle/supertab
 	url = https://github.com/ervandew/supertab
+[submodule ".vim/bundle/sonicpi.vim"]
+	path = .vim/bundle/sonicpi.vim
+	url = https://github.com/dermusikman/sonicpi.vim.git
