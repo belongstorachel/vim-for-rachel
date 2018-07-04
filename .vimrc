@@ -7,7 +7,7 @@ colorscheme ir_black
 "colorscheme morning
 
 " set the font and size
-set guifont=Menlo\ Regular:h14
+set guifont=DroidSansMono_Nerd_Font:h14
 
 " highlight search terms
 set hlsearch
